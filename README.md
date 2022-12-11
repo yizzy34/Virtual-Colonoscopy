@@ -1,4 +1,4 @@
-# Virtual-Colonoscopy
+# Virtual Colonoscopy
 Final Project
 #### Students:
  - Yahya Ghazanfar
