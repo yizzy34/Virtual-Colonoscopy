@@ -30,5 +30,3 @@ We created a system that collects numerous projections along different orientati
 - ***For the slice type ONLY ONE can be run at once***
 - ***Close pop-up windows after viewing***
 - ***When ran multiply times it will override the previous output images making it into the recent output images***
-
-
