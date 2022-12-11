@@ -25,4 +25,6 @@ We created a system that collects numerous projections along different orientati
 4) Lastly, it will display the image that have been cut and put it back together.
 
 ### Notes:
+***All of the code is in "main.py" file***
+
 
