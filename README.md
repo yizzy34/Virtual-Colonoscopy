@@ -30,3 +30,4 @@ We created a system that collects numerous projections along different orientati
 - ***For the slice type ONLY ONE can be run at once.***
 - ***Close pop-up windows after viewing.***
 - ***When ran multiply times it will override the previous output images making it into the recent ran output images.***
+- ***For instance, if the method is run again with a sliced image quantity of 3, as opposed to the previous iteration's 6 output files, the first 3 output files will be overwritten and the remaining 3 will be left alone.***
