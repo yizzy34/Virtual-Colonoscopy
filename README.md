@@ -26,9 +26,9 @@ We created a system that collects numerous projections along different orientati
 
 ### Notes:
  - ***All of the code is in "main.py" file***
-***Images can be found inside the "output" folder***
-***For the slice type ONLY ONE can be run at once***
-***Close pop-up windows after viewing***
-***When ran multiply times it will override the previous output images making it into the recent output images***
+ - ***Images can be found inside the "output" folder***
+ - ***For the slice type ONLY ONE can be run at once***
+ - ***Close pop-up windows after viewing***
+ - ***When ran multiply times it will override the previous output images making it into the recent output images***
 
 
