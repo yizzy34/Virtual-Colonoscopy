@@ -22,7 +22,8 @@ We created a system that collects numerous projections along different orientati
 1) Firstly, will display an image of the orginal phantom with the colon.
 2) Secondly, then will ask for standard input and standard output (STDIN).
 3) Thirdly, it will then create amount of the images wanted to be sliced.
-4) Lastly, it will display the image that have been cut and put it back together.
+4) Fourthly,, it will display the image that have been cut and put it back together.
+5) Lastly, close the first pop window then close the result image after the ouput images will display.
 
 ### Notes:
 - ***All of the code is in "main.py" file.***
