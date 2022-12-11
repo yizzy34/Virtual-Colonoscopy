@@ -27,7 +27,7 @@ We created a system that collects numerous projections along different orientati
 
 ### Notes:
 - ***All of the code is in "main.py" file.***
-- ***Images can be found inside the "output" folder, original.png is before tumor just colon, phantom.png is the one with a tumor.***
+- ***Images can be found inside the "output" folder, original.png is before tumor just colon, phantom.png is the one with a tumor inside the colon.***
 - ***For the slice type ONLY ONE can be run at once.***
 - ***Close pop-up windows after viewing.***
 - ***When ran multiply times it will override the previous output images making it into the recent ran output images.***
