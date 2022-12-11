@@ -3,7 +3,7 @@ import numpy as np
 import cv2
 import matplotlib.pyplot as plt
 from phantominator import shepp_logan
-
+#
 
 def show(img):  # Displays the images
     plt.imshow(img, cmap='gray')  # Makes the picture in gray scale
